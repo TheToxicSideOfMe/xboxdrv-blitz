@@ -49,7 +49,12 @@ Blitz will run in your system tray. Your controller will now work as an Xbox con
 
 ## Screenshots
 
-[Add screenshots here]
+<img width="1244" height="835" alt="Screenshot_20260119_000943" src="https://github.com/user-attachments/assets/6b26ae72-6114-4483-81a6-866e4cb3c8dc" />
+<img width="1250" height="841" alt="Screenshot_20260119_000858" src="https://github.com/user-attachments/assets/55b5af0c-28d1-47f6-aaf5-03307f6ffba7" />
+<img width="1244" height="833" alt="Screenshot_20260119_000838" src="https://github.com/user-attachments/assets/f3b5e7c6-79cb-404a-9efd-318d15671128" />
+<img width="961" height="685" alt="Screenshot_20260119_000739" src="https://github.com/user-attachments/assets/4d021d6a-9391-4a70-a41a-f7f9cd90df3a" />
+<img width="804" height="599" alt="Screenshot_20260119_000712" src="https://github.com/user-attachments/assets/74a33f0b-9668-4b4c-9e08-385385628d96" />
+
 
 ## Requirements
 
