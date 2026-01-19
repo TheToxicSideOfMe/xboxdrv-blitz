@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Blitz
+Comment=GUI for xboxdrv controller configuration
+Exec=/usr/bin/blitz
+Icon=blitz
+Terminal=false
+Type=Application
+Categories=Game;Utility;
+Keywords=controller;gamepad;xboxdrv;gaming;
+StartupWMClass=blitz
